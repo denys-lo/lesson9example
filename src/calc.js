@@ -5,15 +5,17 @@ function calc(operand1, operand2, operation) {
             result = +operand1 + +operand2;
             break;
         case '-':
-            result = operand1 - operand2;
+            result = operand1 -operand2;
             break;
         case '*':
-            result = operand1 * operand2;
+            result = operand1*operand2;
             break;
         case '/':
-            result = operand1 / operand2;
+            result = operand1 / operand2
             break;
         case '**':
+
+        
             result = Math.pow(operand1, operand2);
             break;
         case 'sqrt':

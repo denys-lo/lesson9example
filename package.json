@@ -1,0 +1,20 @@
+{
+  "name": "lesson9",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start-project": "echo \"Starting project\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denys-lo/lesson9example.git"
+  },
+  "author": "Denys Lobanov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/denys-lo/lesson9example/issues"
+  },
+  "homepage": "https://github.com/denys-lo/lesson9example#readme"
+}
